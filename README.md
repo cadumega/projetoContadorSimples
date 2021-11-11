@@ -1,4 +1,5 @@
-## Projeto de contador de Produto com alguns fundamentos de react e estilizado.
+## Projeto de contador de Produto
+Com alguns fundamentos de react e estilizado.
 
 # Incrementar futuramente.
 

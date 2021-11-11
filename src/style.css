@@ -1,0 +1,38 @@
+
+.main {
+    margin: 10px;
+    text-align: center;
+    border: 1px solid black;
+    justify-content: center;
+    position: absolute;
+    top: 3%;
+    left: 25%;
+    background-color: lavender;
+}
+
+.titleProduct {
+    font-style: bold;
+    border-bottom: 1px solid lightseagreen; 
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: lavender;
+    padding: 20px;
+}
+
+.btn- {
+    background-color: lightcoral;
+}
+
+.btnP {
+    background-color: aquamarine;
+}
+
+.price {
+    background-color: blueviolet;
+    color: aliceblue;
+}
+
+.cont,.totalP {
+    background-color: #19f9d8;
+}
